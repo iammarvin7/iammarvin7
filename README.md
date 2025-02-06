@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marvin Chaudhary  
+#Marvin Chaudhary  
 `💻 Computer Science Student`  
 
 [![Website](https://img.shields.io/badge/Portfolio-iammarvin7.github.io/Marvin--C/-%2300C7B7?style=flat&logo=google-chrome)](https://iammarvin7.github.io/Marvin-C/)
@@ -22,10 +22,9 @@
 
 ### **Libraries, Frameworks & Platforms**
 
-<img src="https://img.shields.io/badge/Pandas-1.5.3-blue" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-1.24.2-orange" alt="NumPy">
-<img src="https://img.shields.io/badge/BeautifulSoup-4.12.0-green" alt="BeautifulSoup">
-
+![Pandas](https://img.shields.io/badge/Pandas-1.5.3-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.24.2-orange)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12.0-green)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000?logo=intellij-idea)
@@ -35,15 +34,16 @@
 
 ## 🚀 **Featured Projects**  
 
-### [💳 Credit Card Validator](https://your-live-demo-link.com)  
+### [💳 Credit Card Validator](https://iammarvin7.github.io/CreditCardValidator/)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)  
 Real-time Luhn's Algorithm implementation with 99% validation accuracy.  
 
-### [🧮 iOS-Style Calculator](https://your-live-demo-link.com)  
-![React](https://img.shields.io/badge/React-%2320232a?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript)  
+### [🧮 iOS-Style Calculator](https://iammarvin7.github.io/Calculator/)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)  
 Sleek calculator mimicking iOS UX with gesture support.  
 
 ---
@@ -54,10 +54,9 @@ Sleek calculator mimicking iOS UX with gesture support.
 ---
 
 ## 🌱 **Currently Growing**  
-- 🔍 Researching neural networks for financial portfolio optimization  
-- 🧩 Solving 5+ algorithmic problems weekly (LeetCode/Kattis)  
+- 🔍 Researching Deep Learning for financial portfolio optimization  
 - 📊 Completing advanced ML/Data Analysis courses  
-- 🤝 Collaborating on AI-driven behavioral psychology models (NDA-protected)  
+- 🤝 Collaborating on an AI-driven model (NDA-protected)  
 
 ---
 
@@ -69,7 +68,6 @@ Sleek calculator mimicking iOS UX with gesture support.
 
 ## 💬 **Let's Connect!**  
 [![GitHub](https://img.shields.io/badge/GitHub-iammarvin7-%23181717?logo=github)](https://github.com/iammarvin7)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-%231DA1F2?logo=twitter)](YOUR_TWITTER_URL)  
-*Open to ML collaborations and problem-solving adventures!*  
+*Open to collaborations and problem-solving adventures!*  
 
 > **"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie"**  
