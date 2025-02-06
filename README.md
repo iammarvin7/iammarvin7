@@ -1,4 +1,4 @@
-#Marvin Chaudhary  
+## Marvin Chaudhary  
 `💻 Computer Science Student`  
 
 [![Website](https://img.shields.io/badge/Portfolio-iammarvin7.github.io/Marvin--C/-%2300C7B7?style=flat&logo=google-chrome)](https://iammarvin7.github.io/Marvin-C/)
@@ -38,13 +38,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500)
-*Real-time Luhn's Algorithm implementation with 99% validation accuracy.  
+*Real-time Luhn's Algorithm implementation with 99% validation accuracy.*  
 
 ### [🧮 iOS-Style Calculator](https://iammarvin7.github.io/Calculator/)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500) 
-*Sleek calculator mimicking iOS UX with gesture support.  
+*Sleek calculator mimicking iOS UX with gesture support.*
 
 
 
@@ -70,6 +70,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-iammarvin7-%23181717?logo=github)](https://github.com/iammarvin7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marvin_Chaudhary-%230A66C2?logo=linkedin)](www.linkedin.com/in/marvin-chaudhary)
 
-**Open to collaborations and problem-solving adventures!*  
+*Open to collaborations and problem-solving adventures!*
 
-> **"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie"**  
+> **"The only way to learn a new programming language is by writing programs in it."**
+> — Dennis Ritchie
+
