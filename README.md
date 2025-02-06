@@ -44,7 +44,7 @@ class MarvinChaudhary:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iammarvin7/credit-card-validator">
+      <a href="[https://github.com/iammarvin7/credit-card-validator](https://iammarvin7.github.io/CreditCardValidator/)">
         <img src="/api/placeholder/100/100" width="100" alt="Credit Card Validator"/><br />
         <sub><b>Credit Card Validator</b></sub>
       </a>
