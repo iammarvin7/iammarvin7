@@ -46,7 +46,7 @@ Real-time Luhn's Algorithm implementation with 99% validation accuracy.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)  
 Sleek calculator mimicking iOS UX with gesture support.  
 
----
+
 
 <!--## 📈 **GitHub Stats** 
 ![Marvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammarvin7&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)-->
