@@ -38,13 +38,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500)
->Real-time Luhn's Algorithm implementation with 99% validation accuracy.  
+*Real-time Luhn's Algorithm implementation with 99% validation accuracy.  
 
 ### [🧮 iOS-Style Calculator](https://iammarvin7.github.io/Calculator/)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500) 
->Sleek calculator mimicking iOS UX with gesture support.  
+*Sleek calculator mimicking iOS UX with gesture support.  
 
 
 
