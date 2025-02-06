@@ -13,12 +13,12 @@
 
 ### **Languages & Frameworks**  
 ![C++](https://img.shields.io/badge/C++-20-%2300599C?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&color=FFD43B)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a?logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-%23FF9900?logo=mysql)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&color=00758F)
 
 ### **Libraries, Frameworks & Platforms**
 
@@ -26,7 +26,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.24.2-orange)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12.0-green)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-%23F05032?logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&color=DE4C36)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000?logo=intellij-idea)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase)  
 
@@ -35,15 +35,15 @@
 ## 🚀 **Featured Projects**  
 
 ### [💳 Credit Card Validator](https://iammarvin7.github.io/CreditCardValidator/)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500)
 Real-time Luhn's Algorithm implementation with 99% validation accuracy.  
 
 ### [🧮 iOS-Style Calculator](https://iammarvin7.github.io/Calculator/)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&color=FF5733)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&color=FFA500) 
 Sleek calculator mimicking iOS UX with gesture support.  
 
 
