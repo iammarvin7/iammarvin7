@@ -2,25 +2,30 @@
 `💻 Computer Science Student`  
 
 [![Website](https://img.shields.io/badge/Portfolio-iammarvin7.github.io/Marvin--C/-%2300C7B7?style=flat&logo=google-chrome)](https://iammarvin7.github.io/Marvin-C/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](www.linkedin.com/in/marvin-chaudhary)
 [![Email](https://img.shields.io/badge/Email-mchaudhary1s@semo.edu-%23EA4335?logo=gmail)](mailto:mchaudhary1s@semo.edu)
 
-> **"Code is the closest thing we have to magic ✨"**  
+
 
 ---
 
-## 🔧 **Tech Toolbox**  
+## 🔧 **Things I Know**  
 
 ### **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-20-%2300599C?logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a?logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-%23FF9900?logo=mysql)  
 
-### **Tools & Platforms**  
+### **Libraries, Frameworks & Platforms**
+
+<img src="https://img.shields.io/badge/Pandas-1.5.3-blue" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-1.24.2-orange" alt="NumPy">
+<img src="https://img.shields.io/badge/BeautifulSoup-4.12.0-green" alt="BeautifulSoup">
+
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000?logo=intellij-idea)
@@ -66,3 +71,5 @@ Sleek calculator mimicking iOS UX with gesture support.
 [![GitHub](https://img.shields.io/badge/GitHub-iammarvin7-%23181717?logo=github)](https://github.com/iammarvin7)
 [![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-%231DA1F2?logo=twitter)](YOUR_TWITTER_URL)  
 *Open to ML collaborations and problem-solving adventures!*  
+
+> **"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie"**  
