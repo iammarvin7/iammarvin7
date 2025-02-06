@@ -1,8 +1,8 @@
 ## Marvin Chaudhary  
 `💻 Computer Science Student`  
 
-[![Website](https://img.shields.io/badge/Portfolio-iammarvin7.github.io/Marvin--C/-%2300C7B7?style=flat&logo=google-chrome)](https://iammarvin7.github.io/Marvin-C/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](www.linkedin.com/in/marvin-chaudhary)
+[![Website](https://img.shields.io/badge/Portfolio-Marvin_Chaudhary/-%2300C7B7?style=flat&logo=google-chrome)](https://iammarvin7.github.io/Marvin-C/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/marvin-chaudhary)
 [![Email](https://img.shields.io/badge/Email-mchaudhary1s@semo.edu-%23EA4335?logo=gmail)](mailto:mchaudhary1s@semo.edu)
 
 
@@ -70,7 +70,7 @@
 
 ## 💬 **Let's Connect!**  
 [![GitHub](https://img.shields.io/badge/GitHub-iammarvin7-%23181717?logo=github)](https://github.com/iammarvin7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marvin_Chaudhary-%230A66C2?logo=linkedin)](www.linkedin.com/in/marvin-chaudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marvin_Chaudhary-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/marvin-chaudhary)
 *Open to collaborations and problem-solving adventures!*
 
 > **"The only way to learn a new programming language is by writing programs in it."**
