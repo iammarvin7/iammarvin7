@@ -44,20 +44,12 @@ class MarvinChaudhary:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/credit-card-validator">
+      <a href="https://github.com/iammarvin7/credit-card-validator">
         <img src="/api/placeholder/100/100" width="100" alt="Credit Card Validator"/><br />
         <sub><b>Credit Card Validator</b></sub>
       </a>
       <br />
       <sub>Luhn's Algorithm Implementation</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yourusername/rsp-discord-bot">
-        <img src="/api/placeholder/100/100" width="100" alt="RSP Discord Bot"/><br />
-        <sub><b>RSP Discord Bot</b></sub>
-      </a>
-      <br />
-      <sub>Python & Google Sheets API</sub>
     </td>
   </tr>
 </table>
